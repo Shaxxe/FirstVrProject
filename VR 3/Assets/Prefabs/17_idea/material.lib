@@ -1,0 +1,204 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2022 Aspose Pty Ltd.
+# File created: 01/08/2023 10:46:07
+
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl red_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.341914 0.0612461 0.0578054
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl red_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.341914 0.0612461 0.0578054
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl red_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.341914 0.0612461 0.0578054
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl material_0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl material_0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl metal_main
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl material
+	Ka 0.2 0.2 0.2
+	Kd 0.16272800000000002 0.25979799999999996 0.076087
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl material
+	Ka 0.2 0.2 0.2
+	Kd 0.16272800000000002 0.25979799999999996 0.076087
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl material
+	Ka 0.2 0.2 0.2
+	Kd 0.16272800000000002 0.25979799999999996 0.076087
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl red_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.341914 0.0612461 0.0578054
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl glass
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 0.12976371951219512
+	Tr 0.87023628048780496
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl glass
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 0.12976371951219512
+	Tr 0.87023628048780496
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl white_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.735658 0.66200099999999992 0.55991
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl neon
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
